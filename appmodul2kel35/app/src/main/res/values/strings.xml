@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android Modul</string>
+    <string name="tittle">Praktikum MDP Modul Android</string>
+    <string name="regtittle">Registrasi Data</string>
+    <string name="user">Username</string>
+    <string name="password">password</string>
+    <string name="login">masuk</string>
+    <string name="register">register</string>
+    <string name="logout">Logout</string>
+    <string name="Header">Selamat data di Praktikum MDP 2018</string>
+    <string name="name">Nama Kamu</string>
+    <string name="description">Selanjutnya Akan dijelaskan di modul android berikut nya
+    mengenai Api dan MVP</string>
+</resources>
